@@ -2,7 +2,7 @@ import { useState } from "react";
 import { CORE_CONCEPTS } from "./data";
 import Header from "./components/Header";
 import CoreConcepts from "./components/CoreConcept";
-import TabButton from "./components/Tabbutton";
+import TabButton from "./components/TabButton";
 import { EXAMPLES } from "./data";
 
 
